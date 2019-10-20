@@ -54,3 +54,16 @@ Server/.classpath
 Server/.project
 Server/.settings/
 Server/bin/
+Singleton/bin/
+StreamApi/bin/
+StringConcatination/bin/
+struts1example/.settings/
+struts1example/build/
+struts2evslastlec/.settings/
+struts2evslastlec/build/
+struts2example/.settings/
+struts2example/build/
+StrutsExample/.settings/
+StrutsExample/target/
+StrutsExample1/.settings/
+StrutsExample1/build/
