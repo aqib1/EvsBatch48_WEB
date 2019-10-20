@@ -17,3 +17,6 @@ Java and structs Lectures for Batch48 at EVS
 - MessageDigest using SHA-1
 - Databases
 - IOStreams
+- Multithreading 
+- Observer Pattren
+- UDP Server
